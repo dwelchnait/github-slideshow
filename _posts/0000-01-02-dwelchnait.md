@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Working together will **git** you to the next level
 Use the left arrow to go back!
